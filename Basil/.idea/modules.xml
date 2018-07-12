@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basil.iml" filepath="$PROJECT_DIR$/Basil.iml" />
+      <module fileurl="file://F:\code\Basil\Basil\Basil.iml" filepath="F:\code\Basil\Basil\Basil.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\code\Basil\Basil\app\app.iml" filepath="F:\code\Basil\Basil\app\app.iml" />
     </modules>
   </component>
 </project>
