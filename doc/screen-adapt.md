@@ -81,7 +81,15 @@
 * repeat count and behavior  
 * animator sets  
 * frame refresh delay  
-* ValueAnimator, TypeEvalutor, TimeInterpolator, duration, startPropertyValue, endPropertyValue, ValueAnimator.Animator UpdateListener  
+* ValueAnimator, TypeEvalutor, TimeInterpolator, duration, startPropertyValue, endPropertyValue, ValueAnimator.AnimatorUpdateListener, AnimatorListenerAdapter  
 * subclass of Animator: ValueAnimator, ObjectAnimator, AnimatorSet  
+* animate layout changes to ViewGroup: LayoutTransition, LayoutAnimations, LayoutAnimationsByDefault
 ##### View Animation  
-> 视图/渐变动画：平移，旋转，缩放，渐变，只能对View的子类起作用，只对View的绘制起作用，对View本身没有改变（如对button做平移动画，其绘制的位置会发生改变，但其响应点击的位置一直保持不变）
+> 视图/渐变动画：平移，旋转，缩放，渐变，只能对View的子类起作用，只对View的绘制起作用，对View本身没有改变（如对button做平移动画，其绘制的位置会发生改变，但其响应点击的位置一直保持不变）  
+  
+##### 绘制(Rendering)  
+*待看，地址[https://developer.android.com/topic/performance/rendering/]*  
+
+##### 图标设计(Icon Design)  
+*待看， 地址[https://developer.android.com/guide/practices/ui_guidelines/icon_design]*  
+ 
