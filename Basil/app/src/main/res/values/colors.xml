@@ -6,6 +6,8 @@
     <color name="colorSecondary">#FD5523</color>
     <color name="colorAccent">#FFFBE6</color>
 
+    <color name="colorPageBackground">#FFFBE6</color>
+    <color name="colorStateBarBackground">#ECEAD5</color>
     <color name="colorBackground">#FFFFFF</color>
     <color name="colorSurface">#FFFFFF</color>
     <color name="colorError">#B00020</color>

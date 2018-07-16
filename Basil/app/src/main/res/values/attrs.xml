@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LunchTextView">
+        <attr name="lunch_text" format="reference|string" />
+        <attr name="lunch_text_color" format="color" />
+        <attr name="lunch_text_size" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="Themes">
+        <attr name="LunchTextViewStyle" format="reference" />
+    </declare-styleable>
+</resources>

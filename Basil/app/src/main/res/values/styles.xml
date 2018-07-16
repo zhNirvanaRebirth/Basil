@@ -1,11 +1,18 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="LunchTextViewStyle">@style/LunchTextView_Default</item>
+    </style>
+
+    <style name="LunchTextView_Default">
+        <item name="lunch_text">@string/app_name</item>
+        <item name="lunch_text_color">@color/colorPrimaryDark</item>
+        <item name="lunch_text_size">@dimen/lunch_text_size</item>
     </style>
 
 </resources>

@@ -92,4 +92,9 @@
 
 ##### 图标设计(Icon Design)  
 *待看， 地址[https://developer.android.com/guide/practices/ui_guidelines/icon_design]*  
+
+
+##### Camera  
+
+##### 手势  
  
